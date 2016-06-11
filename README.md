@@ -13,7 +13,7 @@ Minimization performed with a gradient descent.
 
  (1,1) --> 0 
  
-##  Details  ## 
+##  Details  
 More details : https://kusemanohar.wordpress.com/2016/06/11/toy-neural-network/
  
 ##  Files  ##
