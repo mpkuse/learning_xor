@@ -4,8 +4,7 @@ Learning XOR Function with 2-layer Neural Network
 A bare bones implementation of neural network with back-prop for evaluation of gradient. 
 Minimization performed with a gradient descent. 
 
-Training Data with label
--------------------------
+## Training Data with label ##
  (0,0) --> 0
 
  (0,1) --> 1 
@@ -14,19 +13,16 @@ Training Data with label
 
  (1,1) --> 0 
  
- Details
- --------
+##  Details  ## 
  
- 
- Files
- ------
-learn_xor_hidden_bprp.m - Main Script. **Run this file <br/>
+##  Files  ##
+learn_xor_hidden_bprp.m - Main Script. **Run this file
 
-forward_pass.m - Function to evaluate the forward pass <br/>
+forward_pass.m - Function to evaluate the forward pass 
 
-forward_pass_predict.m - Function to just make prediction with forward pass <br/>
+forward_pass_predict.m - Function to just make prediction with forward pass
 
-backward_pass.m - Evaluation of gradient with back propagation <br/>
+backward_pass.m - Evaluation of gradient with back propagation 
 
 eval_performance.m - evaluation of the performance of the trained network <br/>
 
